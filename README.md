@@ -1,5 +1,8 @@
 # Projeto Casa Hacker - Parceiros e Projetos
-Vídeo Projeto Casa Hacker
 
+Vídeo Projeto Casa Hacker - 2º semestre - ADS - Projeto de Expansão
 
-Vídeo do Projeto a ser disponibilizado em breve
+Grupo Odara  
+alunos: Rogê Antônio, Cristopher Kurita, Felipe Longhi e Raquel Cruz 
+
+https://youtu.be/HqDG_RAQS5c
