@@ -2,7 +2,14 @@
 
 Vídeo Projeto Casa Hacker - 2º semestre - ADS - Projeto de Expansão
 
+https://youtu.be/HqDG_RAQS5c
+
 Grupo Odara  
 alunos: Rogê Antônio, Cristopher Kurita, Felipe Longhi e Raquel Cruz 
 
-https://youtu.be/HqDG_RAQS5c
+------------------------------------
+
+
+Página para visualização do Sistema Integrado:
+
+https://casahackerweb.netlify.app/
